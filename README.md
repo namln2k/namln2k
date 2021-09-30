@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2958F7&size=36&center=true&width=1024&vCenter=true&lines=Welcome+to+my+github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2958F7&size=48&center=true&width=1024&vCenter=true&lines=Welcome+to+my+github)](https://git.io/typing-svg)
 
 - :wave: Hi there, my name is Le Nhat Nam
 - :notebook: I'm currently a student at Hanoi University of Science and Technology
