@@ -1,4 +1,4 @@
-[![Typing SVG]([https://readme-typing-svg.herokuapp.com?color=2958F7&size=48&center=true&width=1024&vCenter=true&lines=Welcome+to+my+github)](https://git.io/typing-svg](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=3000&background=C3C3C300&center=true&width=435&lines=Welcome+to+my+Github)](https://git.io/typing-svg))
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=3000&center=true&vCenter=true&width=435&lines=Welcome+to+my+github)](https://git.io/typing-svg)
 
 - :wave: Hi there, my name is Nam Le Nhat
 - :notebook: I'm currently a student at Hanoi University of Science and Technology
